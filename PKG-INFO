@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: django-jsonfield
-Version: 0.7
+Version: 0.7tt1
 Summary: JSONField for django models
 Home-page: http://bitbucket.org/schinckel/django-jsonfield/
 Author: Matthew Schinckel

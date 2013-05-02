@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = "django-jsonfield",
-    version = "0.7",
+    version = "0.7tt1",
     description = "JSONField for django models",
     url = "http://bitbucket.org/schinckel/django-jsonfield/",
     author = "Matthew Schinckel",
